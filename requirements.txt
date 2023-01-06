@@ -1,0 +1,7 @@
+matplotlib==3.5.2
+numpy==1.21.6
+opencv-contrib-python==4.6.0.66
+opencv-python==4.6.0.66
+timm==0.6.12
+torch==1.13.1
+torchvision==0.14.1
